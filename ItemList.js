@@ -11107,5 +11107,7 @@ $(window).on("load", function() {
 		};
 
 	}
+	
+	alert("This seems to have been finally patched...\nThank you all!");
 
 });
